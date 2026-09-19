@@ -1,0 +1,1 @@
+A project for an undergraduate course. This was an interesting exercise in trying to get as many functions as possible with the use of just a single button as the input. It explores creating dynamic endings based on player choice and player actions as well as the amount of activity that can really be generated though the use of just one button.
